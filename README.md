@@ -1,16 +1,24 @@
-### Hi there 👋
+### 🌍 Hi there!
+</br>
 
-<!--
-**maryanasilva/maryanasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm Mariana and I'm just starting my career as a web developer
 
-Here are some ideas to get you started:
+📍 I'm from Portugal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I continue to develop my knowledge and learn new tools
+
+🎥 I'm passionate about cinema
+
+</br>
+
+#### 📫 You can reach me here:
+</br>
+<div>
+  <a href="https://www.linkedin.com/in/mariana-ferreira-da-silva/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+
+
+
