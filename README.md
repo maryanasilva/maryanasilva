@@ -12,9 +12,10 @@
 
 # Tech Stack
 <div>
-  <!-- <a href="https://skillicons.dev"> -->
+   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb" /></br>
     <img src="https://skillicons.dev/icons?i=bootstrap,postman,vscode,git,github,wordpress" />
+   </a>
 </div>
 
 </br> 
